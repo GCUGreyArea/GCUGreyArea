@@ -1,7 +1,11 @@
 # GCUGreyArea
+
+```text
 Name: Barry Robinson
 Email: barry.w.robinson64@gmail.com
-CV: [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work accomplishments.
+```
+
+Please see my [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work responsibilities and accomplishments.
 
 ## Repositories
 
