@@ -1,24 +1,25 @@
 # GCUGreyArea
-
-This is [my](barry.w.robinson64@gmail.com) GitHub account. Please see my [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work acomplishments.
+Name: Barry Robinson
+Email: barry.w.robinson64@gmail.com
+CV: [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work accomplishments.
 
 ## Repositories
 
 ### Test Code for AlertLogic interview
 
-This is code I wrote as a code chalange for the Alert Logic interview. The brief was to write a parser that would count lelter freequency. It was a wide open brief, so I added documentation, unit tests and profiling. 
+I wrote this code as a code challenge for the Alert Logic interview. The brief was to write a parser that would count letter frequency. It was a wide-open brief, so I added documentation, unit tests and profiling. 
 
 Repo: https://github.com/GCUGreyArea/AlertLogic/
 
 ### Python parser
 
-This was a personal porject that I did to learn python. The code qualit isn't great, but I like the fact that it uses MongoDB and Docker compose to bring everything together. Needs updatinig at some point.
+This was a personal project that I did to learn Python. The code quality isn't great, but I like that it uses MongoDB and Docker Compose to bring everything together. It needs updating at some point.
 
 Repo: https://github.com/GCUGreyArea/python-parser
 
 ### Rebgex parser
 
-This is a simple regex parsing engine for complex log files. It uses Hyperscan to identify the anchor the RE2 to mactch and extract values. It has been built and tested on Mac and WSL2, but not on native Linux.
+This is a simple regex parsing engine for complex log files. It uses Hyperscan to identify the anchor RE2 to match and extract values. It has been built and tested on Mac and WSL2 but not on native Linux.
 
 Repo: https://github.com/GCUGreyArea/regex-parser
 
@@ -31,7 +32,7 @@ Repo: https://github.com/GCUGreyArea/ring_buffer
 
 ### Simple Scanner 
 
-A hand coded scanner to parse simple formats and return a structure 
+A hand-coded scanner to parse simple formats and return a structure 
 
 Repo: https://github.com/GCUGreyArea/simple-scanner
 
