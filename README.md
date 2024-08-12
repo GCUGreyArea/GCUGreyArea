@@ -1,6 +1,6 @@
 # GCUGreyArea
 
-This is [my](barry.w.robinson64@gmail.com) GitHub account. 
+This is [my](barry.w.robinson64@gmail.com) GitHub account. Please see my [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work acomplishments.
 
 ## Repositories
 
