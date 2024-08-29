@@ -33,16 +33,20 @@ A basic ring buffer implimentation in C
 
 Repo: https://github.com/GCUGreyArea/ring_buffer
 
-
 ### Simple Scanner 
 
 A hand-coded scanner to parse simple formats and return a structure 
 
 Repo: https://github.com/GCUGreyArea/simple-scanner
 
-
 ### JSMN 
 
 A fork of the `JSMN` code and port to C++ and JQ PAths. Work in progress
 
 Repo: https://github.com/GCUGreyArea/jsmn
+
+### Rotate
+
+A program to bit wise rotate files
+
+Repo: https://github.com/GCUGreyArea/rotate
