@@ -21,7 +21,7 @@ This was a personal project that I did to learn Python. The code quality isn't g
 
 Repo: https://github.com/GCUGreyArea/python-parser
 
-### Rebgex parser
+### Regex parser
 
 This is a simple regex parsing engine for complex log files. It uses Hyperscan to identify the anchor RE2 to match and extract values. It has been built and tested on Mac and WSL2 but not on native Linux.
 
