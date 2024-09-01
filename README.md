@@ -5,7 +5,7 @@ Name: Barry Robinson
 Email: barry.w.robinson64@gmail.com
 ```
 
-Please see my [current CV](https://github.com/GCUGreyArea/Current-CV/blob/master/README.md) for details of work responsibilities and accomplishments. You can also [download a copy in word format](resources/documents/Barry_Robinson-11-08-24-CV.docx) or [as a PDF](resources/documents/Barry_Robinson-11-08-24-CV.pdf)
+Please see my [current CV](resources/documents/Barry_Robinson-11-08-24-CV.pdf) for details of work responsibilities and accomplishments. You can also [download a copy in word format](resources/documents/Barry_Robinson-01-09-24-CV.docx)
 
 ## Repositories
 
