@@ -4,7 +4,7 @@
 Name: Barry Robinson
 ```
 
-Please see my [current CV](resources/documents/Barry_Robinson-01-09-24-CV.pdf) for details of my work responsibilities and accomplishments. You can also [download a copy in Word format](resources/documents/Barry_Robinson-01-09-24-CV.docx)
+Please see my [current CV](resources/documents/Barry_Robinson-24-01-25-CV.pdf) for details of my work responsibilities and accomplishments. You can also [download a copy in Word format](resources/documents/Barry_Robinson-24-01-25-CV.docx)
 
 ## Repositories
 
