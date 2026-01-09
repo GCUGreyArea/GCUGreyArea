@@ -61,3 +61,9 @@ Repo: https://github.com/GCUGreyArea/rotate
 A simple program to pul and view ASCII art from a socket server
 
 Repo: https://github.com/GCUGreyArea/ToxViewer
+
+### SkyWind-Task
+
+A simple number parser for the Sky Wind group code chalange
+
+Repo: https://github.com/GCUGreyArea/Skywind-task 
