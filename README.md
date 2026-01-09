@@ -55,3 +55,9 @@ Repo: https://github.com/GCUGreyArea/jsmn
 A program to bit wise rotate files
 
 Repo: https://github.com/GCUGreyArea/rotate
+
+### ToxViewer 
+
+A simple program to pul and view ASCII art from a socket server
+
+Repo: https://github.com/GCUGreyArea/ToxViewer
